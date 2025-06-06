@@ -1,0 +1,15 @@
+[Fri Jun  6 09:50:24 2025] PHP 8.4.4 Development Server (http://localhost:8000) started
+[Fri Jun  6 09:50:28 2025] [::1]:50158 Accepted
+[Fri Jun  6 09:50:28 2025] [::1]:50159 Accepted
+[Fri Jun  6 09:50:29 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Fri Jun  6 09:50:29 2025] [::1]:50159 [200]: GET /
+[Fri Jun  6 09:50:29 2025] [::1]:50159 Closing
+[Fri Jun  6 09:50:45 2025] [::1]:50158 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Jun  6 09:50:45 2025] [::1]:50158 Closing
+[Fri Jun  6 10:27:19 2025] [::1]:58134 Accepted
+[Fri Jun  6 10:27:19 2025] [::1]:58135 Accepted
+[Fri Jun  6 10:27:20 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Fri Jun  6 10:27:20 2025] [::1]:58134 [200]: GET /
+[Fri Jun  6 10:27:20 2025] [::1]:58134 Closing
+[Fri Jun  6 10:28:51 2025] [::1]:58135 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Jun  6 10:28:51 2025] [::1]:58135 Closing
