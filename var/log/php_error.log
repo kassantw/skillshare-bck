@@ -1,78 +1,15 @@
-[Thu Jun  5 14:38:46 2025] PHP 8.4.4 Development Server (http://localhost:8000) started
-[Thu Jun  5 14:38:51 2025] [::1]:55414 Accepted
-[Thu Jun  5 14:38:51 2025] [::1]:55415 Accepted
-[Thu Jun  5 14:38:52 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
-[Thu Jun  5 14:38:52 2025] [::1]:55415 [200]: GET /
-[Thu Jun  5 14:38:52 2025] [::1]:55415 Closing
-[Thu Jun  5 14:38:52 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
-[Thu Jun  5 14:38:53 2025] PHP Fatal error:  Uncaught Exception: Route not found for GET /favicon.ico in E:\Projets\PHP\SkillShare\backend\src\core\Router.php:21
-Stack trace:
-#0 E:\Projets\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
-#1 {main}
-  thrown in E:\Projets\PHP\SkillShare\backend\src\core\Router.php on line 21
-[Thu Jun  5 14:38:53 2025] [::1]:55414 [200]: GET /favicon.ico - Uncaught Exception: Route not found for GET /favicon.ico in E:\Projets\PHP\SkillShare\backend\src\core\Router.php:21
-Stack trace:
-#0 E:\Projets\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
-#1 {main}
-  thrown in E:\Projets\PHP\SkillShare\backend\src\core\Router.php on line 21
-[Thu Jun  5 14:38:53 2025] [::1]:55414 Closing
-[Thu Jun  5 14:47:17 2025] [::1]:55521 Accepted
-[Thu Jun  5 14:47:17 2025] [::1]:55522 Accepted
-[Thu Jun  5 14:47:17 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
-[Thu Jun  5 14:47:17 2025] [::1]:55521 [200]: GET /
-[Thu Jun  5 14:47:17 2025] [::1]:55521 Closing
-[Thu Jun  5 14:47:18 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
-[Thu Jun  5 14:47:18 2025] PHP Fatal error:  Uncaught Exception: Route not found for GET /favicon.ico in E:\Projets\PHP\SkillShare\backend\src\core\Router.php:21
-Stack trace:
-#0 E:\Projets\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
-#1 {main}
-  thrown in E:\Projets\PHP\SkillShare\backend\src\core\Router.php on line 21
-[Thu Jun  5 14:47:18 2025] [::1]:55522 [200]: GET /favicon.ico - Uncaught Exception: Route not found for GET /favicon.ico in E:\Projets\PHP\SkillShare\backend\src\core\Router.php:21
-Stack trace:
-#0 E:\Projets\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
-#1 {main}
-  thrown in E:\Projets\PHP\SkillShare\backend\src\core\Router.php on line 21
-[Thu Jun  5 14:47:18 2025] [::1]:55522 Closing
-[Thu Jun  5 14:54:12 2025] [::1]:55567 Accepted
-[Thu Jun  5 14:54:12 2025] [::1]:55568 Accepted
-[Thu Jun  5 14:54:12 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
-[Thu Jun  5 14:54:12 2025] [::1]:55568 [200]: GET /
-[Thu Jun  5 14:54:12 2025] [::1]:55568 Closing
-[Thu Jun  5 14:54:13 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
-[Thu Jun  5 14:54:13 2025] PHP Fatal error:  Uncaught Exception: Route not found for GET /favicon.ico in E:\Projets\PHP\SkillShare\backend\src\core\Router.php:21
-Stack trace:
-#0 E:\Projets\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
-#1 {main}
-  thrown in E:\Projets\PHP\SkillShare\backend\src\core\Router.php on line 21
-[Thu Jun  5 14:54:13 2025] [::1]:55567 [200]: GET /favicon.ico - Uncaught Exception: Route not found for GET /favicon.ico in E:\Projets\PHP\SkillShare\backend\src\core\Router.php:21
-Stack trace:
-#0 E:\Projets\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/favicon.ico', 'GET')
-#1 {main}
-  thrown in E:\Projets\PHP\SkillShare\backend\src\core\Router.php on line 21
-[Thu Jun  5 14:54:13 2025] [::1]:55567 Closing
-[Thu Jun  5 14:54:20 2025] [::1]:55576 Accepted
-[Thu Jun  5 14:54:20 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
-[Thu Jun  5 14:54:20 2025] PHP Fatal error:  Uncaught Exception: Route not found for GET /.well-known/appspecific/com.chrome.devtools.json in E:\Projets\PHP\SkillShare\backend\src\core\Router.php:21
-Stack trace:
-#0 E:\Projets\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/.well-known/ap...', 'GET')
-#1 {main}
-  thrown in E:\Projets\PHP\SkillShare\backend\src\core\Router.php on line 21
-[Thu Jun  5 14:54:20 2025] [::1]:55576 [200]: GET /.well-known/appspecific/com.chrome.devtools.json - Uncaught Exception: Route not found for GET /.well-known/appspecific/com.chrome.devtools.json in E:\Projets\PHP\SkillShare\backend\src\core\Router.php:21
-Stack trace:
-#0 E:\Projets\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/.well-known/ap...', 'GET')
-#1 {main}
-  thrown in E:\Projets\PHP\SkillShare\backend\src\core\Router.php on line 21
-[Thu Jun  5 14:54:20 2025] [::1]:55576 Closing
-[Thu Jun  5 15:10:07 2025] [::1]:56039 Accepted
-[Thu Jun  5 15:10:07 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
-[Thu Jun  5 15:10:07 2025] PHP Fatal error:  Uncaught Exception: Route not found for GET /.well-known/appspecific/com.chrome.devtools.json in E:\Projets\PHP\SkillShare\backend\src\core\Router.php:21
-Stack trace:
-#0 E:\Projets\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/.well-known/ap...', 'GET')
-#1 {main}
-  thrown in E:\Projets\PHP\SkillShare\backend\src\core\Router.php on line 21
-[Thu Jun  5 15:10:07 2025] [::1]:56039 [200]: GET /.well-known/appspecific/com.chrome.devtools.json - Uncaught Exception: Route not found for GET /.well-known/appspecific/com.chrome.devtools.json in E:\Projets\PHP\SkillShare\backend\src\core\Router.php:21
-Stack trace:
-#0 E:\Projets\PHP\SkillShare\backend\public\index.php(14): App\core\Router->dispatch('/.well-known/ap...', 'GET')
-#1 {main}
-  thrown in E:\Projets\PHP\SkillShare\backend\src\core\Router.php on line 21
-[Thu Jun  5 15:10:07 2025] [::1]:56039 Closing
+[Fri Jun  6 09:50:24 2025] PHP 8.4.4 Development Server (http://localhost:8000) started
+[Fri Jun  6 09:50:28 2025] [::1]:50158 Accepted
+[Fri Jun  6 09:50:28 2025] [::1]:50159 Accepted
+[Fri Jun  6 09:50:29 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Fri Jun  6 09:50:29 2025] [::1]:50159 [200]: GET /
+[Fri Jun  6 09:50:29 2025] [::1]:50159 Closing
+[Fri Jun  6 09:50:45 2025] [::1]:50158 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Jun  6 09:50:45 2025] [::1]:50158 Closing
+[Fri Jun  6 10:27:19 2025] [::1]:58134 Accepted
+[Fri Jun  6 10:27:19 2025] [::1]:58135 Accepted
+[Fri Jun  6 10:27:20 2025] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Fri Jun  6 10:27:20 2025] [::1]:58134 [200]: GET /
+[Fri Jun  6 10:27:20 2025] [::1]:58134 Closing
+[Fri Jun  6 10:28:51 2025] [::1]:58135 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Jun  6 10:28:51 2025] [::1]:58135 Closing
